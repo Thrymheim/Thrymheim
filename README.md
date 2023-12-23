@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Maziyar kolagar
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me --> Maziyarkolagar@gmail.com ... if u had any pronlem that i can help with that lemme know ;) 
