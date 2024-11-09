@@ -56,3 +56,9 @@
 <img src="https://raw.githubusercontent.com/Thrymheim/Thrymheim/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://i.imgflip.com/99t34a.gif" alt="Sample GIF" style="max-width: 100%; height: auto;" />
+</div>
+
+###
