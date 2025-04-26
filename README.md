@@ -41,15 +41,12 @@
 ###
 
 <div align="left">  
-  <a href="mailto:maziyarkolagar@gmail.com" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />  
-  </a>  
   <a href="https://ir.linkedin.com/in/Thrymheim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://youtube.com/@thrym_heim?si=cHJQllLYC1JF6_KH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
+  <a href="mailto:maziyarkolagar@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />  
+  </a>  
 </div>
 
 ###
