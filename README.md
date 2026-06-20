@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maziyar kolagar and I'm a Back-End developer</h2>
+<h2 align="left">Hi 👋! My name is Maziyar kolagar and I'm a AI Engineer</h2>
 
 ###
 
