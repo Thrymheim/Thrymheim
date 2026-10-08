@@ -19,14 +19,10 @@
 
 Computer Science student at **Mazandaran University of Science and Technology** and aspiring **AI Engineer** — I build intelligent, user-focused systems with machine learning and generative AI, from idea to deployed app. Currently teaching Python & Django, shipping AI side projects, and always learning something new ✨
 
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-<br>
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thrymheim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=omni&locale=en" height="150" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thrymheim&layout=compact&card_width=320&langs_count=5&theme=omni" height="150" alt="Top languages" />
-
-</details>
 
 ---
 
@@ -130,31 +126,18 @@ Course material I write for my students:
 
 ## 💼 Experience
 
-**Programming Teacher** — *Mojtama Fani Tehran, Babol Branch* · `Jun 2024 – Present`
+**Artificial Intelligence Engineer** — *Daya Tadbir · Internship* · `Aug 2025 – Jan 2026 · 6 mos` · Babol, Mazandaran · Hybrid
+- Data cleaning, preprocessing, and preparation for ML and deep learning projects
+- Developed and experimented with machine learning models for prediction and classification tasks
+- Worked on deep learning projects using modern frameworks and model architectures
+- Contributed to a **Retrieval-Augmented Generation (RAG)** project: data preparation, document processing, retrieval, and LLM integration
+- Analyzed data, trained models, and evaluated results with Python and ML libraries
+- End-to-end AI workflow: from data preparation and experimentation to building and evaluating AI solutions
+
+**Programming Teacher** — *Mojtama Fani Tehran, Babol Branch* · `Jun 2024 – Aug 2026`
 - Designed and delivered Python courses (beginner → advanced): OOP, data structures, algorithms
 - Taught Django web development with hands-on REST API, database, and deployment projects
 - Wrote course materials, coding exercises, real-world projects, and assessments
-
----
-
-## 🏆 Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-### 🥇 1st Place — BIAUPC
-Programming & Algorithm Contest, Islamic Azad University of Babol — solved complex problems in Python as part of a high-performing team.
-
-</td>
-<td width="50%">
-
-### 🎮 Futsal Simulator Programming Competition
-Competitive C# game development — collaborated with peers and picked up new problem-solving techniques.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -162,12 +145,6 @@ Competitive C# game development — collaborated with peers and picked up new pr
 
 - 📖 [**Programming with Python for Engineers**](https://taaghche.com/book/207808) (2024) — Sinan Kalkan, Onur T. Şehitoğlu, Göktürk Üçoluk · *tr. Maziyar Kolagar & Javad Isazadeh*
 - 📖 [**Data Analysis from Scratch with Python**](https://taaghche.com/book/202786) (2023) — Morgan Peters · *tr. Maziyar Kolagar & Javad Isazadeh*
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Engineering** — *Mazandaran University of Science and Technology* · `Sep 2023 – Present`
 
 ---
 
