@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-Computer Engineering student at **Mazandaran University of Science and Technology** and aspiring **AI Engineer** — I build intelligent, user-focused systems with machine learning and generative AI, from idea to deployed app. Currently teaching Python & Django, shipping AI side projects, and always learning something new ✨
+Computer Engineering student at **Mazandaran University of Science and Technology** and aspiring **AI Engineer** — I build intelligent, user-focused systems with machine learning and generative AI, from idea to deployed app.
 
 ## 📊 GitHub Stats
 
